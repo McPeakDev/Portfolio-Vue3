@@ -1,0 +1,26 @@
+[
+	{
+		"linkName": "TerraTax",
+		"title": "Terra Tax",
+		"subtitle": "i3 Verticals",
+		"content": "Terra Tax is a complete software package for collecting real and personal property taxes in North Carolina. This system generates tax bills and invoices, processes transaction for clerks, prints invoices and receipts, and much more. If you would like to learn more about the project, please click the project name above."
+	},
+	{
+		"linkName": "Inventory",
+		"title": "Inventory (i2)",
+		"subtitle": "i3 Verticals",
+		"content": "Inventory is a logistic software package for managing plate inventory for the state of Tennessee. This handles sending plate inventory, voiding invalid plates, and requesting more plates to be created. If you would like to learn more about the project, please click the project name above."
+	},
+	{
+		"linkName": "Kiosk",
+		"title": "Kiosk",
+		"subtitle": "i3 Verticals",
+		"content": "Kiosk is a software package and hardware system that allows for citizens to renew their current registrations and pay taxes for the state of Tennessee. These devices have been deployed to most of the TN Clerk Offices and some are available in grocery stores. If you would like to learn more about the project, please click the project name above."
+	},
+	{
+		"linkName": "VTRS",
+		"title": "VTRS",
+		"subtitle": "i3 Verticals",
+		"content": "The Vehicle and Titling Registration System is a complete software collection that provides clerks of Tennessee the ability to create and update registrations, assign plates, prevent unauthorized transactions on stolen vehicles, and much more. If you would like to learn more about the project, please click the project name above. "
+	}
+]
